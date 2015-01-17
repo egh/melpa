@@ -1,0 +1,3 @@
+(zotxt
+ :repo "egh/zotxt-emacs" 
+ :fetcher github)
